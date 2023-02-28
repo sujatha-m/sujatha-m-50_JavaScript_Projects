@@ -13,7 +13,7 @@ window.addEventListener('keydown',(event)=>{
   </div>
   <div class="key">
     ${event.timeStamp}
-    <small>event.keyCode</small>
+    <small>event.timeStamp</small>
   </div>
   <div class="key">
     ${event.code}
